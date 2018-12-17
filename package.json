@@ -1,5 +1,5 @@
 {
-  "name": "library_js",
+  "name": "star-wars-names-br",
   "version": "1.0.0",
   "description": "Get random Star Wars names",
   "main": "src/index.js",
@@ -23,5 +23,6 @@
   "homepage": "https://github.com/desousaj7/startwars-names#readme",
   "dependencies": {
     "unique-random-array": "1.0.1"
-  }
+  },
+  "devDependencies": {}
 }
